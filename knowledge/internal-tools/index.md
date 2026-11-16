@@ -21,5 +21,6 @@ A single tool with: what it does and what problem it solves, architecture overvi
 - [Usain Bolt - E2E Test Automation Platform](./usain-bolt.md) — Playwright-based E2E test orchestration and dashboard.
 - [Radio - Lambda Power Tuning](./radio.md) — self-hosted AWS Lambda Power Tuning with a web UI.
 - [Naughty - Teams Notification Service](./naughty.md) — Adaptive Card notifications to Microsoft Teams.
+- [RTFM - Read-only Knowledge-Base Platform](./rtfm/index.md) — git-backed Markdown knowledge bases served read-only to browsers and AI agents (MCP) from per-space microVMs.
 - [MCP Remote Tools — AI Agent Configuration](./mcp-remote-tools.md) — how to configure AI agents against the remote MCP tools.
 - [MCP Development](./mcp-development/index.md) — MCP development guides, steering, servers, and skills.
